@@ -1,3 +1,7 @@
+html, body{
+	margin: 0;
+}
+
 header{
 	background-color: #661919; 
 	padding: 50px;
