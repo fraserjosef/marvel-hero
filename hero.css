@@ -6,11 +6,12 @@ header{
 
 h1{
 	font-size: 90px; 
-	color: white;
+	color: black;
 }
 
 header img{
 	border-radius: 150px;
+	border: 5px solid black;
 }
 
 footer{
