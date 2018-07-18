@@ -3,7 +3,10 @@ html, body{
 }
 
 header{
-	background-color: #661919; 
+	background-color: #541e1e;
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlLhjtiYwT4jd3tWyuFS6Rfp7u0rTKEw8s10VXNq7gXYkxkG_s);
+	background-size: 50%
+	background-repeat: no-repeat;
 	padding: 50px;
 	text-align: center;
 }
@@ -23,7 +26,3 @@ footer{
 	color: gray;
 	padding: 0.04px 0.02px;
 }
-/*<header>
-		<img src="https://www.moviedash.com/wp-content/uploads/2018/06/Star-Lord-Chris-Pratt-HD-Guardians-of-the-Galaxy.jpg" style="width:50%" class="center">
-		<h1 align="center">STARLORD</h1>
-	</header>*/
